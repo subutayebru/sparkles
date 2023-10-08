@@ -1,2 +1,2 @@
 # sparkles
-SNNs RL
+SNN x RL
